@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Craftsman
 ------------------
 
-I've just finished a NIIT StackRoute bootcamp through Auburn University. I am a constant student and I enjoy the challenges presented to me.
+Hi, I’m William Siddons, a web developer and software engineering student. I have a background in maintenance and military service, where I learned to work independently and with a team, meet deadlines, and solve problems. I’m currently pursuing a Bachelor of Science in Software Engineering at Western Governors University, and I have a Web Development Certificate from Auburn University. I’m passionate about creating modern, responsive, and user-friendly web applications using HTML, CSS, Bootstrap, TypeScript, JavaScript, Angular, and Rest API. I’m proficient in using GitHub and GitLab for version control and collaboration. I’m always eager to learn new skills and technologies, and I’m open to feedback and improvement. You can check out some of my projects on my GitHub profile, and feel free to contact me at wsiddon@wgu.edu or (239) 900-6287. Thank you for visiting my profile! 😊
 
-* 🌍  I'm based in Huntsville, Madison, Alabama, USA
+* 🌍  I'm based in Madison, Alabama, USA
 * ✉️  You can contact me at [liam946994@gmail.com](mailto:liam946994@gmail.com)
 * 🧠  I'm learning a new Framework
 * ⚡  Portfolio: Coming Soon
