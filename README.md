@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liam Siddons
 ====================================================================================================================================
-
-Frontend Craftsman
-------------------
-
- I am a web developer and software engineering student. I have a background in maintenance and military service, where I learned to work independently and with a team, meet deadlines, and solve problems. I’m currently pursuing a Bachelor of Science in Software Engineering at Western Governors University, and I have a Web Development Certificate from Auburn University. I’m passionate about creating modern, responsive, and user-friendly web applications using HTML, CSS, Bootstrap, TypeScript, JavaScript, Angular, and Rest API. I’m proficient in using GitHub and GitLab for version control and collaboration. I’m always eager to learn new skills and technologies, and I’m open to feedback and improvement. You can check out some of my projects on my GitHub profile, and feel free to contact me at wsiddon@wgu.edu or (239) 900-6287. Thank you for visiting my profile! 😊
+ a web developer and software engineering student. I have a background in maintenance and military service, where I learned to work independently and with a team, meet deadlines, and solve problems. I’m currently pursuing a Bachelor of Science in Software Engineering at Western Governors University, and I have a Web Development Certificate from Auburn University. I’m passionate about creating modern, responsive, and user-friendly web applications using HTML, CSS, Bootstrap, TypeScript, JavaScript, Angular, and Rest API. I’m proficient in using GitHub and GitLab for version control and collaboration. I’m always eager to learn new skills and technologies, and I’m open to feedback and improvement. You can check out some of my projects on my GitHub profile, and feel free to contact me at wsiddon@wgu.edu or (239) 900-6287. Thank you for visiting my profile! 😊
 
 * 🌍  I'm based in Madison, Alabama, USA
 * ✉️  You can contact me at [liam946994@gmail.com](mailto:liam946994@gmail.com)
